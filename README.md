@@ -1,16 +1,17 @@
-## Hi there 👋
+## Wassup Fellas
 
-<!--
-**Kimonooo/Kimonooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~ Currently learning various technological skills until I found what I would really love to do.
 
-Here are some ideas to get you started:
+# Currently Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ 💻 Networking
+~ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+~ ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+📌 Pinned Projects
+-N/A
+
+📫 How to reach me:
+Email: isq.tamidles@gmail.com
+LinkedIn: https://www.linkedin.com/feed/
